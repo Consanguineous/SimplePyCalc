@@ -36,5 +36,5 @@ def calculator():
     print('Credits: Consanguineous\n2024\nhttps://github.com/Consanguineous')
     return calculator()
 
-m
+
 calculator()
